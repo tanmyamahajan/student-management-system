@@ -1,0 +1,11 @@
+# Compiled Java files
+*.class
+
+# IntelliJ IDEA
+.idea/
+
+# IntelliJ output
+out/
+
+# VS Code
+.vscode/
